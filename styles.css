@@ -1,0 +1,27 @@
+* {
+    background-color:goldenrod;
+}
+body {
+    font-family: 'Pattaya', sans-serif;
+}
+
+h1 { 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: rgb(114, 24, 24);
+}
+
+h1, p.black-border {
+    border: 2px solid white;
+}
+
+ul {
+    color:cornflowerblue;
+    background-color: cornsilk;
+    border:2px solid slateblue;
+    border-style: dashed;
+}
+
+#green-background {
+    background-color: green;
+}
